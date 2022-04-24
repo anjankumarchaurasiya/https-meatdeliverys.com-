@@ -1,0 +1,4 @@
+[07-Sep-2021 18:04:26 UTC] PHP Notice:  Undefined index: host in /home/groceryat/public_html/installer/install/index.php on line 229
+[07-Sep-2021 18:04:26 UTC] PHP Notice:  Undefined index: user in /home/groceryat/public_html/installer/install/index.php on line 230
+[07-Sep-2021 18:04:26 UTC] PHP Notice:  Undefined index: pass in /home/groceryat/public_html/installer/install/index.php on line 231
+[07-Sep-2021 18:04:26 UTC] PHP Notice:  Undefined index: name in /home/groceryat/public_html/installer/install/index.php on line 232
